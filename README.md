@@ -1,8 +1,8 @@
 # **Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer (CONTHO codes)**
 
 > [**Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer**](https://cv.snu.ac.kr/),            
-> Hyeongjin Nam,
-> Daniel Sungho Jung,
+> Hyeongjin Nam*,
+> Daniel Sungho Jung*,
 > Gyeongsik Moon,
 > Kyoung Mu Lee,        
 > *Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
