@@ -15,5 +15,5 @@
 </p> 
 
 ## Code release
-We are currently preparing for CVPR camera-ready and code re-organizing!\n
+We are currently preparing for CVPR camera-ready and code re-organizing!\
 Please take some time for the code to be released.
