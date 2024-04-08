@@ -2,9 +2,10 @@
 
 # <b>CONTHO</b>: Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer
 
-<b>[Hyeongjin Nam*](https://hygenie1228.simple.ink/)<sup>1</sup></b>, <b>[Daniel Sungho Jung*](https://dqj5182.github.io/)<sup>1</sup></b>, <b>[Gyeongsik Moon](https://mks0601.github.io/)<sup>2</sup></b>, <b>[Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/)<sup>1</sup></b>
+<b>[Hyeongjin Nam*](https://hygenie1228.simple.ink/)<sup>1</sup></b>, <b>[Daniel Sungho Jung*](https://dqj5182.github.io/)<sup>1</sup></b>, <b>[Gyeongsik Moon](https://mks0601.github.io/)<sup>2</sup></b>, <b>[Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/)<sup>1</sup></b> 
 
 <b><sup>1</sup>Seoul National University</b>, <b><sup>2</sup>Codec Avatars Lab, Meta</b>
+</br><span style="font-size:0.86em;">(*Equal contribution)</span>
 
 <h2>CVPR 2024</h2>
 
