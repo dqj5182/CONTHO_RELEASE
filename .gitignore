@@ -19,7 +19,6 @@ data/*/annotations
 data/base_data
 data/preprocessed_data
 experiment
-results
 
 # Distribution / packaging
 .Python
