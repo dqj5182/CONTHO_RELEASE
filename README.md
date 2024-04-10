@@ -7,6 +7,8 @@
 <b><sup>1</sup>Seoul National University</b>, <b><sup>2</sup>Codec Avatars Lab, Meta</b>
 </br><span style="font-size:0.86em;">(*Equal contribution)</span>
 
+[![ArXiv](https://img.shields.io/badge/Arxiv-2404.04819-red)](https://arxiv.org/abs/2404.04819)
+
 <h2>CVPR 2024</h2>
 
 <img src="./asset/teaser.gif" alt="Logo" width="100%">
