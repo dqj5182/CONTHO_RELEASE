@@ -93,7 +93,7 @@ scripts/download_behave.sh
 scripts/download_intercap.sh
 ```
 * Download [base_data](https://drive.google.com/drive/folders/1f0RYWHrCfaegEG24lcuP7-5PfsHGrchj?usp=sharing).
-* (Optional) Download the released checkpoints for [BEHAVE](https://drive.google.com/file/d/1oD7r0ekvpYiWp_ysVkVFXBYJL9X4hZOS/view?usp=sharing) or [InterCap](https://drive.google.com/file/d/14Zd5iVhJuGCI2pvW5p_peRnabBGOEdY3/view?usp=sharing) dataset.
+* (Optional) Download the released checkpoints for [BEHAVE](https://drive.google.com/file/d/1-XWMN-5kAj7pBM6N246pf2HMd_aH6FlT/view?usp=sharing) or [InterCap](https://drive.google.com/file/d/156g5lOdevhDAp4tceTS1GW7_X7ID5a-Y/view?usp=sharing) dataset.
 
 
 ## Running CONTHO
