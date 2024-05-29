@@ -1,4 +1,5 @@
 import os
+import torch
 import argparse
 import __init_path
 
@@ -9,7 +10,7 @@ from utils.vis_utils import vis_results_demo
 
 parser = argparse.ArgumentParser(description='Demo CONTHO')
 parser.add_argument('--gpu', type=str, default='0', help='assign multi-gpus by comma concat')
-parser.add_argument('--checkpoint', type=str, default='', help='model path for evaluation')
+parser.add_argument('--checkpoint', type=str, default='', required=True, help='model path for evaluation')
 parser.add_argument('--exp', type=str, default='demo_out', help='assign experiments directory')
 
 
@@ -51,7 +52,8 @@ for idx in range(len(img_files)):
     obj_name = obj_name_list[idx:idx+1]
 
     # Forward input
-    output = contho_model(input)
+    with torch.no_grad():
+        output = contho_model(input)
 
     # Save mesh
     vis_results_demo(output, img_file, obj_name)
