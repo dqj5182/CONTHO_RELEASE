@@ -16,7 +16,9 @@
 <a>![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-brightgreen.svg)</a>
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![ArXiv](https://img.shields.io/badge/Arxiv-2404.04819-red)](https://arxiv.org/abs/2404.04819)
+<a href='https://contho-release.github.io'><img src='https://img.shields.io/badge/Project_Page-CONTHO-green' alt='Project Page'></a>
+<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Joint_Reconstruction_of_3D_Human_and_Object_via_Contact-Based_Refinement_CVPR_2024_paper.pdf"><img src='https://img.shields.io/badge/Paper-CONTHO-blue' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2404.04819"><img src='https://img.shields.io/badge/arXiv-CONTHO-red' alt='Paper PDF'></a>
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/joint-reconstruction-of-3d-human-and-object/3d-human-reconstruction-on-behave)](https://paperswithcode.com/sota/3d-human-reconstruction-on-behave) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/joint-reconstruction-of-3d-human-and-object/3d-object-reconstruction-on-behave)](https://paperswithcode.com/sota/3d-object-reconstruction-on-behave)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/joint-reconstruction-of-3d-human-and-object/contact-detection-on-behave)](https://paperswithcode.com/sota/contact-detection-on-behave) 
 
