@@ -50,8 +50,8 @@ _**CONTHO** jointly reconstructs **3D human and object** by exploiting human-obj
 
 
 ## Quick demo
-* Prepare the `base_data` from [here](https://drive.google.com/drive/folders/1f0RYWHrCfaegEG24lcuP7-5PfsHGrchj?usp=sharing) and place it as `${ROOT}/data/base_data`.
-* Download the pre-trained checkpoint from [here](https://drive.google.com/drive/folders/1Ow6N0L8b2DOTqXImuWaT2UELNpgWRi5v?usp=sharing).
+* Prepare the `base_data` from either [Google Drive](https://drive.google.com/drive/folders/1f0RYWHrCfaegEG24lcuP7-5PfsHGrchj?usp=sharing) or [Onedrive](https://1drv.ms/f/s!ArodDxCaKn6_vgQyOir32GkJOQEE?e=BIZ80m), and place it as `${ROOT}/data/base_data`.
+* Download the pre-trained checkpoint from either [Google Drive](https://drive.google.com/file/d/14w3NCl6tMw8nbmMaLdFQnIrqgU9SUWVz/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!ArodDxCaKn6_vhpHXjGO55_UhW7Y?e=GB94s5).
 * Lastly, please run
 ```
 python main/demo.py --gpu 0 --checkpoint {CKPT_PATH}
@@ -94,8 +94,8 @@ scripts/download_behave.sh
 ```
 scripts/download_intercap.sh
 ```
-* Download [base_data](https://drive.google.com/drive/folders/1f0RYWHrCfaegEG24lcuP7-5PfsHGrchj?usp=sharing).
-* (Optional) Download the released checkpoints for [BEHAVE](https://drive.google.com/file/d/1-XWMN-5kAj7pBM6N246pf2HMd_aH6FlT/view?usp=sharing) or [InterCap](https://drive.google.com/file/d/156g5lOdevhDAp4tceTS1GW7_X7ID5a-Y/view?usp=sharing) dataset.
+* Download base_data from either [Google Drive](https://drive.google.com/drive/folders/1f0RYWHrCfaegEG24lcuP7-5PfsHGrchj?usp=sharing) or [Onedrive](https://1drv.ms/f/s!ArodDxCaKn6_vgQyOir32GkJOQEE?e=BIZ80m).
+* (Optional) Download the released checkpoints for BEHAVE ([Google Drive](https://drive.google.com/file/d/1-XWMN-5kAj7pBM6N246pf2HMd_aH6FlT/view?usp=sharing) | [OneDrive](https://1drv.ms/u/s!ArodDxCaKn6_vhuNfTN0o_TlFK44?e=LQduzT)) and InterCap ([Google Drive](https://drive.google.com/file/d/156g5lOdevhDAp4tceTS1GW7_X7ID5a-Y/view?usp=sharing) | [OneDrive](https://1drv.ms/u/s!ArodDxCaKn6_vhkqZm2f9d9P3XpH?e=vMv2lf)) dataset.
 
 
 ## Running CONTHO
