@@ -41,7 +41,7 @@ _**CONTHO** jointly reconstructs **3D human and object** by exploiting human-obj
     conda create -n contho python=3.9
     conda activate contho 
 
-    # Install PyTorch
+    #Install PyTorch
     conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=10.2 -c pytorch
 
     # Install all remaining packages
