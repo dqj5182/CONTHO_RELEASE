@@ -33,7 +33,7 @@ _**CONTHO** jointly reconstructs **3D human and object** by exploiting human-obj
 <br/>
 
 
-## Installation
+##Installation
 * We recommend you to use an [Anaconda](https://www.anaconda.com/) virtual environment. Install PyTorch >=1.10.1 and Python >= 3.7.0. Our latest CONTHO model is tested on Python 3.9.13, PyTorch 1.10.1, CUDA 10.2.
 * Setup the environment
 ``` 
