@@ -49,7 +49,7 @@ _**CONTHO** jointly reconstructs **3D human and object** by exploiting human-obj
 ```
 
 
-## Quick demo
+# Quick demo
 * Prepare the `base_data` from either [Google Drive](https://drive.google.com/drive/folders/1f0RYWHrCfaegEG24lcuP7-5PfsHGrchj?usp=sharing) or [Onedrive](https://1drv.ms/f/s!ArodDxCaKn6_vgQyOir32GkJOQEE?e=BIZ80m), and place it as `${ROOT}/data/base_data`.
 * Download the pre-trained checkpoint from either [Google Drive](https://drive.google.com/file/d/14w3NCl6tMw8nbmMaLdFQnIrqgU9SUWVz/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!ArodDxCaKn6_vhpHXjGO55_UhW7Y?e=GB94s5).
 * Lastly, please run
