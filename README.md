@@ -37,11 +37,11 @@ _**CONTHO** jointly reconstructs **3D human and object** by exploiting human-obj
 * We recommend you to use an [Anaconda](https://www.anaconda.com/) virtual environment. Install PyTorch >=1.10.1 and Python >= 3.7.0. Our latest CONTHO model is tested on Python 3.9.13, PyTorch 1.10.1, CUDA 10.2.
 * Setup the environment
 ``` 
-    # Initialize conda environment
+    #Initialize conda environment
     conda create -n contho python=3.9
     conda activate contho 
 
-    # Install PyTorch
+    #Install PyTorch
     conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=10.2 -c pytorch
 
     # Install all remaining packages
@@ -49,7 +49,7 @@ _**CONTHO** jointly reconstructs **3D human and object** by exploiting human-obj
 ```
 
 
-## Quick demo
+# Quick demo
 * Prepare the `base_data` from either [Google Drive](https://drive.google.com/drive/folders/1f0RYWHrCfaegEG24lcuP7-5PfsHGrchj?usp=sharing) or [Onedrive](https://1drv.ms/f/s!ArodDxCaKn6_vgQyOir32GkJOQEE?e=BIZ80m), and place it as `${ROOT}/data/base_data`.
 * Download the pre-trained checkpoint from either [Google Drive](https://drive.google.com/file/d/14w3NCl6tMw8nbmMaLdFQnIrqgU9SUWVz/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!ArodDxCaKn6_vhpHXjGO55_UhW7Y?e=GB94s5).
 * Lastly, please run
