@@ -4,11 +4,11 @@
 
 <b>[Hyeongjin Nam*](https://hygenie1228.simple.ink/)<sup>1</sup></b>, <b>[Daniel Sungho Jung*](https://dqj5182.github.io/)<sup>1</sup></b>, <b>[Gyeongsik Moon](https://mks0601.github.io/)<sup>2</sup></b>, <b>[Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/)<sup>1</sup></b> 
 
-<p align="center">
-    <img src="asset/logo_cvlab.png" height=35>
+<div style="text-align: center;">
+    <img src="asset/logo_cvlab.png" style="width:200px; vertical-align: middle;">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="asset/logo_meta.png" height=35>
-</p>
+    <img src="asset/logo_meta.png" style="width:200px; vertical-align: middle;">
+</div>
 
 <b><sup>1</sup>Seoul National University</b>, <b><sup>2</sup>Codec Avatars Lab, Meta</b>
 </br><span style="font-size:0.86em;">(*Equal contribution)</span>
